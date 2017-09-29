@@ -1,0 +1,38 @@
+{
+  "short_name": "WilliamPenagos",
+  "name": "Pagina web personal de William Penagos",
+  "description": "William Penagos, Desarrollador web fullstack con más de 7 años desarrollando software un amplio abanico de conocimiento en lenguajes de programación y frameworks.",
+  "icons": [
+    {
+      "src": "/images/ic_mood_black_24dp_1x.png",
+      "type": "image/png",
+      "sizes": "24x24"
+    },
+    {
+      "src": "/images/ic_mood_black_24dp_2x.png",
+      "type": "image/png",
+      "sizes": "48x48"
+    },
+    {
+      "src": "/images/ic_mood_black_24dp_3x.png",
+      "type": "image/png",
+      "sizes": "96x96"
+    },
+    {
+      "src": "/images/ic_mood_black_24dp_5x.png",
+      "type": "image/png",
+      "sizes": "144x144"
+    },
+    {
+      "src": "/images/ic_mood_black_24dp_4x.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    }
+  ],
+  "background_color": "#512da8",
+  "theme_color": "#512da8",
+  "gcm_sender_id": "103953800507",
+  "display": "standalone",
+  "lang": "es",
+  "start_url": "/?utm_source=homescreen"
+}

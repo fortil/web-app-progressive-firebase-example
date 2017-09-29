@@ -1,0 +1,19 @@
+{
+  "rules": {
+    ".write": "true",
+    ".read": "true",
+    "navigators": {
+      "$idNavigator": {
+        "fecha": {
+          ".validate": "newData.val() === now"
+        },
+        "endPoint": {
+          ".validate": "newData.isString()"
+        },
+        "count": {
+          ".validate": "newData.isNumber()"
+        }
+      }
+    }
+  }
+}
